@@ -1,4 +1,4 @@
-<h1 align="center">YouTube Trending Data Pipeline</h1>
+<h1 align="center">learn-aws-yt-pipeline</h1>
 <h3 align="center">Cr. Darshil Parmar</h3>
 <h3 align="center">https://www.youtube.com/watch?v=yvAWbbQa8eE</h3>
 
