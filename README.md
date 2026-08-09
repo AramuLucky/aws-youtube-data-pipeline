@@ -1,4 +1,6 @@
 <h1 align="center">YouTube Trending Data Pipeline</h1>
+<h3 align="center">Cr. Darshil Parmar</h3>
+<h3 align="center">https://www.youtube.com/watch?v=yvAWbbQa8eE</h3>
 
 <p align="center">
   <img src="https://github.com/AramuLucky/learn-aws-yt-pipeline/blob/ba82a58d2663cfba072b52380cd133daaeeb6ef7/yt-pipeline.png" alt="Pipeline's Picture">
